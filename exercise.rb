@@ -5,7 +5,7 @@ class Exercise
   #Psuedocode
   # 1. split string by word boundary into array.
   # 2. loop through each element and ask each element if it's longer than four chars.
-  # 3. Replace the ones that are with marklar and Makrklar for ones that are capitalized.
+  # 3. Replace the ones that are with marklar and Marklar for ones that are capitalized.
   # 4. Join back together into a string.
 
   def self.marklar(str)
